@@ -1,3 +1,7 @@
+# Differences from Tutorial
+
+Enter key for search, image placeholder, css styles (colors changed, unnecessary things removed)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
